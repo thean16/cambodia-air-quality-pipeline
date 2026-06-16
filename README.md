@@ -142,8 +142,3 @@ pip install pyspark pandas sqlalchemy pyodbc requests
 
 ---
 
-## 🏫 Course Information
-- **Course**: Parallel and Distributed Systems
-- **Institution**: Institute of Technology of Cambodia (ITC)
-- **Department**: Applied Mathematics and Statistics
-- **Academic Year**: 2025–2026
