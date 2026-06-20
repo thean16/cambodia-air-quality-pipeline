@@ -1,4 +1,9 @@
+
 # Cambodia Air Quality Analysis Pipeline
+
+##  Dashboard Preview
+
+![Power BI Dashboard](dashboard.png)
 
 A real-time air quality data pipeline for 5 Cambodian cities. Fetches live readings from the Open-Meteo API every 60 seconds, processes them with Apache Spark, and stores results in SQL Server.
 
